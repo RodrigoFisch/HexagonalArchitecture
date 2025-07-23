@@ -1,0 +1,9 @@
+arantes:
+  client:
+    address:
+      url: http://loccalhost:8082/addresses
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:2017/hexagonal
